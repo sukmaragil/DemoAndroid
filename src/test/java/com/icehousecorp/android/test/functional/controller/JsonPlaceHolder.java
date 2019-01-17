@@ -41,10 +41,11 @@ public class JsonPlaceHolder {
 //                "      \"userId\": 1\n" +
 //                "    }";
 
-        RequestBody body = new RequestBody();
-        body.setTitle("foo");
-        body.setBody("bar");
-        body.setUserId(1);
+        RequestBody body = RequestBody.builder()
+                .title("foo")
+                .body("bar")
+                .userId(1)
+                .build();
 
         Response result =
                 given()
