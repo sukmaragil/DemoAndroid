@@ -1,0 +1,16 @@
+com/icehousecorp/android/test/functional/Utils/Config.class
+com/icehousecorp/android/test/functional/pages/HomePage.class
+com/icehousecorp/android/test/functional/behaviour/AddTodo.class
+com/icehousecorp/android/test/functional/steps/AddTodoItemSteps.class
+com/icehousecorp/android/test/functional/models/DataObject.class
+com/icehousecorp/android/test/functional/pages/DictionaryPage.class
+com/icehousecorp/android/test/functional/steps/DefinitionSteps.class
+com/icehousecorp/android/test/functional/controller/JsonPlaceHolder.class
+com/icehousecorp/android/test/functional/steps/serenity/EndUserSteps.class
+com/icehousecorp/android/test/functional/AndroidDriverSource.class
+com/icehousecorp/android/test/functional/pages/StatisticsPage.class
+com/icehousecorp/android/test/functional/DefinitionTestSuite.class
+com/icehousecorp/android/test/functional/models/RequestBody.class
+com/icehousecorp/android/test/functional/models/LoginEntity.class
+com/icehousecorp/android/test/functional/behaviour/AddTodo$1.class
+com/icehousecorp/android/test/functional/pages/NewTodoPage.class

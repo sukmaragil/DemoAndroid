@@ -1,0 +1,28 @@
+{
+  "data": {
+    "token": "852c46018246d956ed15ac9e5529c79e",
+    "user_id": "BB00545750",
+    "email": "ih0@icehouse.com",
+    "name": "account test",
+    "phone": "+6281690852113",
+    "profile_image": "",
+    "is_legacy": false,
+    "created_at": 1544437341,
+    "updated_at": 1545131069,
+    "is_activated": true,
+    "firebase_token": "eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJleHAiOjE1NDc3MDk0NTAsInYiOjAsImQiOnsicHJvdmlkZXIiOiJtb2JpbGUiLCJ1aWQiOiJCQjAwNTQ1NzUwIn0sImlhdCI6MTU0NzcwODg1MH0.QdgzpFuVt7zIT2IEc6KGgjtJV4c0S71fLtc8A_FUxL8",
+    "is_white_list_user": true,
+    "privileges": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I"
+    ],
+    "subscribe_error": null
+  }
+}
